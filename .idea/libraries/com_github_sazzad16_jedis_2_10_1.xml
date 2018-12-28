@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.sazzad16:jedis:2.10.1" type="repository">
+    <properties maven-id="com.github.sazzad16:jedis:2.10.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
