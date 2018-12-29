@@ -1,4 +1,3 @@
-
 public class My {
     static int  i;
     static char c;
@@ -36,10 +35,15 @@ public class My {
 
         double above = 29.7;
         System.out.println((int) above);
-
-
-        
+        varArgs(new Object[]{47, 3.14F, 11.11});
     }
+
+    public static void varArgs (Object[] args) {
+        for (Object obj : args)
+            System.out.println("obj = " + obj);
+        System.out.println();
+    }
+
 
 
 
